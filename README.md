@@ -48,10 +48,7 @@ Users should be able to:
 - See booking information and guest details in the payment route
 - (Optional) Download the booking details - via html2pdf.js
 
-### Links
 
-- Solution URL: [Github Link](https://github.com/fatihozoglu/vue-hotels-app)
-- Live Site URL: [Vue Hotels App](http://fozoglu-vue-hotels-app.surge.sh/)
 
 ## My process
 
@@ -69,10 +66,7 @@ Users should be able to:
 - [Vuelidate] (https://vuelidate.js.org/)
 - [html2pdf](https://www.npmjs.com/package/html2pdf.js/v/0.9.0)
 
-## Author
 
-- Website - [Fatih Özoğlu](https://fatihozoglu.github.io/react-portfolio/)
-- Linkedin - [Fatih Özoğlu](https://www.linkedin.com/in/fatihozoglu/)
 
 ## Project setup
 
